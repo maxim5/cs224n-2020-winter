@@ -5,3 +5,4 @@ The videos of all lectures are available [on YouTube](https://www.youtube.com/pl
 
 Useful links:
 - [CS224n winter 2017 edition](https://github.com/maxim5/cs224n-2017-winter)
+- [CS224n winter 2019 edition](https://github.com/maxim5/cs224n-2019-winter)
